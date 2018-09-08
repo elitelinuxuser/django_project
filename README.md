@@ -1,7 +1,7 @@
 # Getting Started
 
 ```sh
-$ git clone 
+$ git clone https://github.com/luciferkde/django_project.git
 $ cd django_project/
 $ virtualenv --python=`which python3` venv
 $ source venv/bin/activate
